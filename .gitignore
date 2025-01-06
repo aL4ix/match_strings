@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+matches.csv
+matches.xlsx
+*.iml
+.idea/
+dontcommit/
